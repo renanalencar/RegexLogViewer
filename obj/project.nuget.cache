@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/cJAbemrOdXDhSp3S9UqCUF42Xh0EpjOdbXwml9NV8AoGno4LhOHkUOWGankTOfKYls0wys7Tn/jyqGjzP8ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renan\\source\\repos\\RegexLogViewer\\LogViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

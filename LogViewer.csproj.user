@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GUI\EntryCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FrmFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FrmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FRMVanishingAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\PreFilterCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
