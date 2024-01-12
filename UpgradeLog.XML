@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LogViewer">
+</Property><Property Name="Solution File" Value="C:\workspace\GitHub\RegexLogViewer\LogViewer.sln">
+</Property><Property Name="User Options File" Value="C:\workspace\GitHub\RegexLogViewer\LogViewer.suo">
+</Property><Property Name="Date" Value="יום חמישי 20 דצמבר 2012">
+</Property><Property Name="Time" Value="13:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LogViewer.sln" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogViewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LogViewer.suo" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogViewer.suo">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogViewer.csproj" Description="Project file successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogViewer.csproj">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogViewer.csproj.user" Description="Project user file successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogViewer.csproj.user">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DataViewEx.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DataViewEx.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DefaultLogBehavior.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DefaultLogBehavior.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DSLogData.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DSLogData.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FrmProgressBar.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FrmProgressBar.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FrmProgressBar.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FrmProgressBar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FRMVanishingAlert.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FRMVanishingAlert.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FRMVanishingAlert.designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FRMVanishingAlert.designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogBehavior.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogBehavior.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogColumnType.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogColumnType.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogGridColDefinition.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\LogGridColDefinition.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="MainForm.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="EntryCard.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\EntryCard.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="EntryCard.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\EntryCard.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="OpenFolderDialog.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\OpenFolderDialog.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="PreFilterCard.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\PreFilterCard.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="PreFilterCard.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\PreFilterCard.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Program.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="ProgressBar.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\ProgressBar.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="RowPrototype.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\RowPrototype.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="WildCard.cs" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\WildCard.cs">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="App.config" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DSLogData.xsc" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DSLogData.xsc">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DSLogData.xsd" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DSLogData.xsd">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="DSLogData.xss" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\DSLogData.xss">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Properties\Settings.settings" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="BehaviorConfig.xml" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\BehaviorConfig.xml">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="eye1.ico" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\eye1.ico">
+</Event><Event ErrorLevel="2" Project="LogViewer" Source="Untitled - 1.ico" Description="Failed to backup file as C:\workspace\GitHub\RegexLogViewer\Backup\Untitled - 1.ico">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FrmProgressBar.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FrmProgressBar.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="FRMVanishingAlert.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\FRMVanishingAlert.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="MainForm.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="EntryCard.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\EntryCard.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="PreFilterCard.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\PreFilterCard.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="Properties\Resources.resx" Description="File successfully backed up as C:\workspace\GitHub\RegexLogViewer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LogViewer" Source="LogViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LogViewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LogViewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LogViewer" Source="LogViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="" Source="LogViewer.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="LogViewer.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
